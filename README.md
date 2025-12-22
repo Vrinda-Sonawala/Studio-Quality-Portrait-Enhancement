@@ -54,7 +54,4 @@ Fix problems like:
 - OpenCV (`opencv-python`)  
 - NumPy  
 
-Install in Colab:
 
-```python
-!pip install opencv-python numpy
