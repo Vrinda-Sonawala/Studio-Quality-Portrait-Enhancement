@@ -3,8 +3,6 @@
 ## Project Objective
 Enhance raw human portrait images captured in uncontrolled conditions into clean, studio-style portraits.
 
----
-
 ## Goal
 Convert a normal raw photo into a **clean and professional-looking portrait** while keeping the face natural.
 
@@ -14,7 +12,6 @@ The project focuses on fixing:
 - Slight blur
 - Preserving natural skin and facial identity
 
----
 
 ## How the Code Works
 
@@ -39,12 +36,10 @@ The project focuses on fixing:
 7. **Final Output**
    - Combines all steps to generate a natural-looking studio-style portrait.
 
----
 
 ## Input
 - Raw human portrait image (`myphoto.jpg`) uploaded in Google Colab.
 
----
 
 ## Output
 - Enhanced portrait image with:
@@ -54,7 +49,6 @@ The project focuses on fixing:
   - Natural-looking skin
   - Same facial identity
 
----
 
 ## Tools & Technologies
 - Python  
